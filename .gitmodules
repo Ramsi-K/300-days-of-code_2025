@@ -1,3 +1,6 @@
 [submodule "bootcamps/2025-genai-andrew-brown-exampro"]
 	path = bootcamps/2025-genai-andrew-brown-exampro
 	url = https://github.com/Ramsi-K/free-genai-bootcamp-2025
+[submodule "leetcode"]
+	path = leetcode
+	url = https://github.com/Ramsi-K/LeetCode-solutions
