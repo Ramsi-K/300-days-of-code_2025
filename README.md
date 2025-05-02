@@ -16,10 +16,9 @@ _This repo links out to submodules and folders containing detailed work and docu
 
 > **Phase 2 Preparation (April 2025):** Wrapping up GenAI projects showcasing and preparing for MLOps Zoomcamp
 
-- ✅ GenAI Bootcamp [Completed in April]
 - 🧠 MLOps Zoomcamp [Starts May 5]
 - 🤖 Hugging Face Agents [Considering – Deadline July 31]
-- 📜 AWS Cloud Practitioner Recertification [Deadline April 30]
+- 📜 AWS AI Practitioner Recertification [Exam Scheduled for May 23rd]
 
 ---
 
@@ -43,6 +42,29 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 
 ---
 
+## 🏆 Bootcamp Outcomes
+
+### GenAI Bootcamp (Feb–Apr 2025)
+
+- ✅ **Completed 100% of all project submissions**
+- 🔴 **Awarded RED SQUAD recognition** for top-tier documentation and engagement
+- 📜 [View Certificate](certs/genai-bootcamp/certificate.pdf)
+- 🧠 Focus Areas: TOGAF, ASR, TTS, AI assisted Language Learning, Agents, RAG, MUD games, handwriting recognition, multi-agent chatbots
+- 💥 Challenges faced:
+  - Struggled with frontend/backend integration
+  - Major friction with deployment (Docker, Spaces, Firewalls)
+  - Learned the importance of understanding cloud tools earlier in project cycles
+- 🔧 **Upcoming Focus:**
+  - Completing Udemy courses on backend dev & AWS
+  - Building deployable projects using Flask + AWS services
+
+### AWS Learning Highlights
+
+- 🎓 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/7de75131-01cf-4d37-851b-cb63f6f39dae/public_url)
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/684fdd1c-105a-4ee4-a472-f15381285ecd/public_url)
+- 🤖 [AWS Educate Intro to Generative AI](https://www.credly.com/badges/17ad2294-e69a-4465-9d58-226109158cce/public_url)
+- 🗣️ [AWS Skill Builder: Amazon Lex Getting Started](certs/aws/17999_5_861541_1746163529_AWSSkillBuilderCourseCompletionCertificate.pdf)
+
 ## 🧪 Certifications Gallery
 
 #### LeetCode Monthly Challenges
@@ -65,7 +87,29 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 </div>
 
 <div style="text-align: center;">
-    <p>April – in progress</p>
+    <p>April</p>
+    <img src="certs/leetcode/2025-04.png" alt="Mar Cert" width="150">
+</div>
+
+</div>
+
+#### AWS Certifications
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<div style="text-align: center;">
+    <p>Cloud Practitioner</p>
+    <img src="certs/aws/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="150">
+</div>
+
+<div style="text-align: center;">
+    <p>Cloud Quest</p>
+    <img src="certs/aws/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest" width="150">
+</div>
+
+<div style="text-align: center;">
+    <p>Intro to GenAI</p>
+    <img src="certs/aws/aws-educate-introduction-to-generative-ai.png" alt="AWS Educate GenAI" width="150">
 </div>
 
 </div>
@@ -74,16 +118,18 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 
 ## 📘 Research Papers
 
-- “Turn Detection in AI Language Learning” → [PDF/Link]
+- “Turn Detection in AI Language Learning” → [Link](https://www.academia.edu/128366473/Turn_Detection_in_AI_Powered_Language_Learning_Cultural_Neurodivergent_and_Ethical_Implications)
 - “Beyond Human Mimicry: Rethinking AI Identity” → in progress
-- Additional breakdowns from GenAI bootcamp to be published on [arXiv](https://arxiv.org/) or [Academia.edu](https://www.academia.edu/yourprofile)
+- Additional breakdowns from GenAI bootcamp to be published on [arXiv](https://arxiv.org/) or [Academia.edu](https://independentscholar.academia.edu/RamsiKalia)
 
 ---
 
 ## 📁 Repository Structure
 
 - `leetcode/` → [LeetCode Daily Solutions (Submodule)](https://github.com/yourusername/leetcode-solutions)
-- `certs/leetcode/` → Monthly certificate images
+- `certs/`
+  - `leetcode/` → Monthly certificate images
+  - `aws/` →
 - `bootcamps/`
   - `genai/` → [GenAI Bootcamp Repo](https://github.com/yourusername/genai-bootcamp-2025)
   - `mlops/` → (To be added)
@@ -104,4 +150,4 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 
 > ## Connect & Collaborate
 >
-> I believe in learning in public and welcome collaboration. If you're interested in any of the projects or want to pair program on algorithms, you can reach out to me via LinkedIn.
+> I believe in learning in public and welcome collaboration. If you're interested in any of the projects or want to pair program on algorithms, you can reach out to me via [LinkedIn](https://www.linkedin.com/in/ramsikalia/).
