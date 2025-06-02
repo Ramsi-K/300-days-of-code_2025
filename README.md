@@ -14,13 +14,11 @@ _This repo links out to submodules and folders containing detailed work and docu
 
 ## 🎯 Current Focus
 
-> **Phase 2 Preparation (April 2025):** Wrapping up GenAI projects showcasing and preparing for MLOps Zoomcamp
+> **Quarter 2 (June) 2025:** Wrapping up GenAI projects showcasing and preparing for MLOps Zoomcamp
 
-- 🧠 MLOps Zoomcamp [Starts May 5]
+- 🧠 Networking Fundamentals Bootcamp by Andrew Brown (May 31st to June 14th)
 - 🤖 Hugging Face Agents [Considering – Deadline July 31]
-- 📜 AWS AI Practitioner Recertification [Exam Scheduled for May 23rd]
-
----
+- ***
 
 ## Challenge Structure
 
@@ -33,12 +31,12 @@ _This repo links out to submodules and folders containing detailed work and docu
 
 Instead of tracking 365 individual days, I'm organizing the year into strategic learning phases:
 
-| Phase | Focus Area         | Timeline | Key Projects/Goals                        |
-| ----- | ------------------ | -------- | ----------------------------------------- |
-| 1     | Generative AI      | Jan-Apr  | Completed GenAI Bootcamp                  |
-| 2     | MLOps & Production | May-Jul  | MLOps Zoomcamp, Implement CI/CD pipelines |
-| 3     | [TBD]              | Aug-Oct  |                                           |
-| 4     | [TBD]              | Nov-Dec  |                                           |
+| Phase | Focus Area    | Timeline | Key Projects/Goals       |
+| ----- | ------------- | -------- | ------------------------ |
+| 1     | Generative AI | Jan-Apr  | Completed GenAI Bootcamp |
+| 2     | [TBD]         | May-Jul  | [TBD]                    |
+| 3     | [TBD]         | Aug-Oct  |                          |
+| 4     | [TBD]         | Nov-Dec  |                          |
 
 ---
 
@@ -60,6 +58,7 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 
 ### AWS Learning Highlights
 
+- 🏅 [AWS Certified AI Practitioner](https://www.credly.com/badges/1f290b70-e366-4756-a959-413c8c3b4398/public_url)
 - 🎓 [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/7de75131-01cf-4d37-851b-cb63f6f39dae/public_url)
 - 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/684fdd1c-105a-4ee4-a472-f15381285ecd/public_url)
 - 🤖 [AWS Educate Intro to Generative AI](https://www.credly.com/badges/17ad2294-e69a-4465-9d58-226109158cce/public_url)
@@ -90,12 +89,21 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
     <p>April</p>
     <img src="certs/leetcode/2025-04.png" alt="Mar Cert" width="150">
 </div>
+<div style="text-align: center;">
+    <p>May</p>
+    <img src="certs/leetcode/2025-05.png" alt="Mar Cert" width="150">
+</div>
 
 </div>
 
 #### AWS Certifications
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<div style="text-align: center;">
+    <p>AI Practitioner</p>
+    <img src="certs/aws/aws-certified-ai-practitioner.png" alt="AWS CCP" width="150">
+</div>
 
 <div style="text-align: center;">
     <p>Cloud Practitioner</p>
