@@ -70,61 +70,19 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 
 ## 🧪 Certifications Gallery
 
-#### LeetCode Monthly Challenges
+### LeetCode Monthly Challenge Badges
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+| Jan                             | Feb                             | Mar                             | Apr                             | May                             |
+| ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
+| ![](certs/leetcode/2025-01.png) | ![](certs/leetcode/2025-02.png) | ![](certs/leetcode/2025-03.png) | ![](certs/leetcode/2025-04.png) | ![](certs/leetcode/2025-05.png) |
 
-<div style="text-align: center;">
-    <p>January</p>
-    <img src="certs/leetcode/2025-01.png" alt="Jan Cert" width="150">
-</div>
+---
 
-<div style="text-align: center;">
-    <p>February</p>
-    <img src="certs/leetcode/2025-02.png" alt="Feb Cert" width="150">
-</div>
+### AWS Certifications
 
-<div style="text-align: center;">
-    <p>March</p>
-    <img src="certs/leetcode/2025-03.png" alt="Mar Cert" width="150">
-</div>
-
-<div style="text-align: center;">
-    <p>April</p>
-    <img src="certs/leetcode/2025-04.png" alt="Mar Cert" width="150">
-</div>
-<div style="text-align: center;">
-    <p>May</p>
-    <img src="certs/leetcode/2025-05.png" alt="Mar Cert" width="150">
-</div>
-
-</div>
-
-#### AWS Certifications
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-<div style="text-align: center;">
-    <p>AI Practitioner</p>
-    <img src="certs/aws/aws-certified-ai-practitioner.png" alt="AWS CCP" width="150">
-</div>
-
-<div style="text-align: center;">
-    <p>Cloud Practitioner</p>
-    <img src="certs/aws/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="150">
-</div>
-
-<div style="text-align: center;">
-    <p>Cloud Quest</p>
-    <img src="certs/aws/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest" width="150">
-</div>
-
-<div style="text-align: center;">
-    <p>Intro to GenAI</p>
-    <img src="certs/aws/aws-educate-introduction-to-generative-ai.png" alt="AWS Educate GenAI" width="150">
-</div>
-
-</div>
+| AI Practitioner                                  | Cloud Practitioner                                  | Cloud Quest                                           | Intro to GenAI                                               |
+| ------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| ![](certs/aws/aws-certified-ai-practitioner.png) | ![](certs/aws/aws-certified-cloud-practitioner.png) | ![](certs/aws/aws-cloud-quest-cloud-practitioner.png) | ![](certs/aws/aws-educate-introduction-to-generative-ai.png) |
 
 ---
 
