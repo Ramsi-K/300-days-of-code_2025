@@ -14,11 +14,15 @@ _This repo links out to submodules and folders containing detailed work and docu
 
 ## 🎯 Current Focus
 
-> **Quarter 2 (June) 2025:** Wrapping up GenAI projects showcasing and preparing for MLOps Zoomcamp
+> **Quarter 2 (June) 2025:** Focused execution, short build cycles, and public demos.
 
-- 🧠 Networking Fundamentals Bootcamp by Andrew Brown (May 31st to June 14th)
-- 🤖 Hugging Face Agents [Considering – Deadline July 31]
-- ***
+- 🧠 Networking Fundamentals Bootcamp by Andrew Brown (May 31–June 14)
+- 🔧 Hugging Face Agents Hackathon – Bayko & Brown mini project (June 2–6)
+- 📊 EvidentlyAI LLMOps Bootcamp – project submission by June 5
+- 🛠️ VAPI Build Challenge (June 10+)
+- ☁️ 100DaysOfCloud – new Discord server launch + XP system in place
+
+---
 
 ## Challenge Structure
 
@@ -31,12 +35,12 @@ _This repo links out to submodules and folders containing detailed work and docu
 
 Instead of tracking 365 individual days, I'm organizing the year into strategic learning phases:
 
-| Phase | Focus Area    | Timeline | Key Projects/Goals       |
-| ----- | ------------- | -------- | ------------------------ |
-| 1     | Generative AI | Jan-Apr  | Completed GenAI Bootcamp |
-| 2     | [TBD]         | May-Jul  | [TBD]                    |
-| 3     | [TBD]         | Aug-Oct  |                          |
-| 4     | [TBD]         | Nov-Dec  |                          |
+| Phase | Focus Area     | Timeline | Key Projects/Goals                                                                                                  |
+| ----- | -------------- | -------- | ------------------------------------------------------------------------------------------------------------------- |
+| 1     | Generative AI  | Jan-Apr  | Completed GenAI Bootcamp                                                                                            |
+| 2     | Cloud + Agents | May–Jul  | AWS AIF cert, Networking Bootcamp, EvidentlyAI, HuggingFace Hackathon, VAPI Challenge, 100DaysOfCloud, AWS SAA prep |
+| 3     | [TBD]          | Aug-Oct  |                                                                                                                     |
+| 4     | [TBD]          | Nov-Dec  |                                                                                                                     |
 
 ---
 
