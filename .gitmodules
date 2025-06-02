@@ -4,3 +4,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = https://github.com/Ramsi-K/LeetCode-solutions
+[submodule "bootcamps/networking-bootcamp"]
+	path = bootcamps/networking-bootcamp
+	url = https://github.com/Ramsi-K/exp-net-fundamentals-2025-Q2.git
