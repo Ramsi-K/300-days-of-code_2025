@@ -143,8 +143,8 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
   - `leetcode/` → Monthly certificate images
   - `aws/` →
 - `bootcamps/`
-  - `genai/` → [GenAI Bootcamp Repo](bootcamps\genai)
-  - `networking/` → [Networking Bootcamp Repo](bootcamps\networking)
+  - `genai/` → [GenAI Bootcamp Repo](bootcamps/genai)
+  - `networking/` → [Networking Bootcamp Repo](bootcamps/networking)
 - `courses/`
   - `*` → Optional self-paced courses
   <!-- - `papers/` – Research breakdowns, dissertations, longform writing -->
