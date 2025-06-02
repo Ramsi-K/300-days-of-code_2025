@@ -1,4 +1,4 @@
-# 👨‍💻✨🔭 300 Days Of Code - Year 2 🚀💡🎯
+# 300 Days Of Code - Year 2 🚀
 
 Welcome back to my coding journey!
 
@@ -143,12 +143,11 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
   - `leetcode/` → Monthly certificate images
   - `aws/` →
 - `bootcamps/`
-  - `genai/` → [GenAI Bootcamp Repo](https://github.com/yourusername/genai-bootcamp-2025)
-  - `mlops/` → (To be added)
+  - `genai/` → [GenAI Bootcamp Repo](bootcamps\genai)
+  - `networking/` → [Networking Bootcamp Repo](bootcamps\networking)
 - `courses/`
-  - `huggingface-agents/` → HF Agents course (notes, cert, tools)
-  - `udemy-*` → Optional self-paced courses
-- `papers/` – Research breakdowns, dissertations, longform writing
+  - `*` → Optional self-paced courses
+  <!-- - `papers/` – Research breakdowns, dissertations, longform writing -->
 
 ---
 
