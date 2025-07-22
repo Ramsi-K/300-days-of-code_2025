@@ -75,6 +75,7 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
   - Modal serverless endpoints for SDXL generation
   - Gradio UI with real-time agent feedback
   - Tech stack: GPT-4o, Mistral Codestral, Hugging Face Diffusers, Modal, Gradio
+  - [View Certificate](/certs/other/Certificate-AgentsMCP-Hackathon-1753207993545_8171.png)
 
   → [Project Repo](https://github.com/Ramsi-K/agentic-comic-generator)
 
