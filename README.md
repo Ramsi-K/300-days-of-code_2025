@@ -12,21 +12,6 @@ _This repo links out to submodules and folders containing detailed work and docu
 
 ---
 
-## 🎯 Current Focus
-
-> **Quarter 2 (July) 2025:** Execution-heavy sprint focused on cloud networking, agents, and LLM engineering.
-
-Projects in motion:
-
-- Networking Fundamentals Bootcamp
-- Hypermode Agents Bootcamp
-- LLM Zoomcamp
-- Discord MCP Bot + 100DaysOfCloud infra
-
-→ See [Projects in Progress](#-projects-in-progress) for details
-
----
-
 ## Challenge Structure
 
 - **LeetCode**: Daily challenges (code in `/leetcode/`, certificates in `/certs/leetcode/`)
@@ -38,32 +23,38 @@ Projects in motion:
 
 Instead of tracking 365 individual days, I'm organizing the year into strategic learning phases:
 
-| Phase | Focus Area     | Timeline | Key Projects/Goals                                                                                                                    |
-| ----- | -------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Generative AI  | Jan-Apr  | Completed GenAI Bootcamp                                                                                                              |
-| 2     | MCP + Agents   | May–Jul  | AWS AIF cert, Networking Bootcamp, HuggingFace Hackathon, LLM Zoomcamp, 100DaysOfCloud Discord Bot, Discord MCP Server, Anthropic MCP |
-| 3     | Cloud? A2A ACP | Aug-Oct  | 100DaysOfCloud, AWS SAA, Korean B2 (KSI)prep                                                                                          |
-| 4     | [TBD]          | Nov-Dec  |                                                                                                                                       |
+| Phase | Primary Focus             | Timeline | Key Learning & Projects                                                                                                                                                                               |
+| ----- | ------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Generative AI             | Jan–Apr  | Completed GenAI Bootcamp · Built multi-agent chatbots, RAG demos, ASR/TTS experiments                                                                                                                 |
+| 2     | MCP & Multi-Agent Systems | May–Jul  | AWS AI Practitioner cert · Networking Bootcamp (multi-VPC design) · Agentic Comic Generator (Hugging Face Hackathon) · LLM Zoomcamp · 100DaysOfCloud Discord Bot · Discord MCP Server · Anthropic MCP |
+| 3     | MCP Tooling & Cloud       | Aug–Oct  | Albumentations MCP Server (Kiro Hackathon) · Discord MCP Server · Language Learning GenAI App (OpenAI Open Model Hackathon) · AWS SAA (BeSA) prep · Korean B2 (KSI) · MLOps Zoomcamp · LLM Zoomcamp   |
+| 4     | [TBD]                     | Nov–Dec  | To be defined                                                                                                                                                                                         |
+
+> Note: Some tracks (e.g. certifications, Zoomcamps, MCP tools) span multiple phases. Phases are for showcasing emphasis.
 
 ---
 
 ### 🧱 Projects in Progress
 
-- **Bayko & Brown (Networking Fundamentals Bootcamp)**  
-  Enterprise-grade AWS architecture demonstrating zero-trust multi-agent orchestration  
-  → [Project Repo](https://github.com/Ramsi-K/exp-net-fundamentals-2025-Q2)
-- **LLM Zoomcamp (DataTalksClub, Jul–Aug 2025)**  
-  Deep dive into LLM pipelines, vector search, RAG systems, evaluation techniques, and monitoring strategies.  
-  Capstone project: building an end-to-end assistant with potential pivot to AWS Docs helper.  
+- **LLM Zoomcamp (DataTalksClub, Jul–Oct 2025)**  
+  Deep dive into LLM pipelines: vector search, RAG, evaluation, and monitoring.  
+  Capstone project: building an end-to-end assistant with AWS integration.  
   → [Project Repo](https://github.com/Ramsi-K/llm-zoomcamp)
-- **MCP Discord Agent (Private)**  
-  A modular Discord bot designed for managing AI-focused communities at scale. Features include member analytics, role-based tool access, observability hooks, and context-aware message rendering.  
-  Built with Python, Discord API, and a custom tool orchestration layer.
-- **Hypermode Agents Bootcamp (Jul 2025)**  
-  Focused on Sidekick, an AI automation framework, this bootcamp covers task chaining, agent orchestration, and real-world integrations (e.g., Stripe, GitHub, Notion).  
-  Currently in progress — exploring reusable agent templates and persistent automation workflows.
 
-## 🏆 Project Outcomes
+- **Discord MCP**  
+  Modular Discord bot for managing discord communities. Features: member analytics, role-based tool access, observability hooks, and context-aware message rendering.  
+  Built with Python, Discord API, and a custom tool orchestration layer.
+  → [Project Repo](https://github.com/Ramsi-K/discord-mcp)
+
+- **Albumentations MCP(Kiro Hackathon, Sept 2025)**  
+  MCP-compliant image augmentation tool using Albumentations. Focused on safe, auditable augmentation pipelines.  
+  → [Project Repo](https://github.com/Ramsi-K/albumentations-mcp)
+
+- **Language Learning GenAI App (OpenAI Hackathon, Sept 2025)**  
+  Fullstack application for AI-assisted Korean language learning, leveraging open models and MCP integration.  
+  → [Project Repo](https://github.com/Ramsi-K/learn-korean-play-app)
+
+## 🏆 Completed Projects & Outcomes
 
 ### Hugging Face Hackathon (Jun 2025)
 
@@ -105,6 +96,8 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 | Jan                             | Feb                             | Mar                             | Apr                             | May                             | Jun                             |
 | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
 | ![](certs/leetcode/2025-01.png) | ![](certs/leetcode/2025-02.png) | ![](certs/leetcode/2025-03.png) | ![](certs/leetcode/2025-04.png) | ![](certs/leetcode/2025-05.png) | ![](certs/leetcode/2025-06.png) |
+| Jul                             | Aug                             | Sep                             | Oct                             | Nov                             | Dec                             |
+| ![](certs/leetcode/2025-07.png) | ![](certs/leetcode/2025-08.png) |                                 |                                 |                                 |                                 |
 
 ---
 
@@ -123,6 +116,7 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 - [MCP: Build Rich-Context AI Apps with Anthropic](https://learn.deeplearning.ai/accomplishments/b3ea9e3f-114a-4a5d-a00a-071ac3f3c30a?usp=sharing)
 - [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/accomplishments/5686ef40-8d2f-41be-9f46-08d60f0b1550?usp=sharing)
 - [Korean Introductory Course KSI](/certs/other/KSI%20Introductory.pdf)
+- [MLOps Zoomcamp](certs/other/DataTalks%20MLOps%20Zoomcamp.pdf)
 
 ---
 
