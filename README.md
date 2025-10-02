@@ -27,7 +27,7 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 | ----- | ------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Generative AI             | Jan–Apr  | Completed GenAI Bootcamp · Built multi-agent chatbots, RAG demos, ASR/TTS experiments                                                                                                                 |
 | 2     | MCP & Multi-Agent Systems | May–Jul  | AWS AI Practitioner cert · Networking Bootcamp (multi-VPC design) · Agentic Comic Generator (Hugging Face Hackathon) · LLM Zoomcamp · 100DaysOfCloud Discord Bot · Discord MCP Server · Anthropic MCP |
-| 3     | MCP Tooling & Cloud       | Aug–Oct  | Albumentations MCP Server (Kiro Hackathon) · Discord MCP Server · Language Learning GenAI App (OpenAI Open Model Hackathon) · AWS SAA (BeSA) prep · Korean B2 (KSI) · MLOps Zoomcamp · LLM Zoomcamp   |
+| 3     | MCP Tooling & Cloud       | Aug–Oct  | Albumentations MCP Server (Kiro Hackathon) · Discord MCP Server · Albumentations MCP VLM feature (Nano Banana Hackathon) · AWS SAA (BeSA) prep · Korean B2 (KSI) · MLOps Zoomcamp · LLM Zoomcamp      |
 | 4     | [TBD]                     | Nov–Dec  | To be defined                                                                                                                                                                                         |
 
 > Note: Some tracks (e.g. certifications, Zoomcamps, MCP tools) span multiple phases. Phases are for showcasing emphasis.
@@ -46,15 +46,35 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
   Built with Python, Discord API, and a custom tool orchestration layer.
   → [Project Repo](https://github.com/Ramsi-K/discord-mcp)
 
-- **Albumentations MCP(Kiro Hackathon, Sept 2025)**  
-  MCP-compliant image augmentation tool using Albumentations. Focused on safe, auditable augmentation pipelines.  
-  → [Project Repo](https://github.com/Ramsi-K/albumentations-mcp)
+- **AWS Agents Hackathon (Oct 2025)**  
+  Experimenting with multi-agent architectures and AWS-native services.  
+  Goal: prototype agent workflows leveraging AWS toolchains for orchestration, monitoring, and deployment.  
+  → [Hackathon Page](https://aws-agent-hackathon.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open&_gl=1*dqnssk*_gcl_au*MTE4MTM0MDM2OC4xNzU3MzgwNDU1*_ga*MjAyNjgxNzE2MS4xNzQ5NTc5NTc3*_ga_0YHJK3Y10M*czE3NTk0MjAzODgkbzUxJGcwJHQxNzU5NDIwMzg4JGo2MCRsMCRoMA..) _(to be updated with repo link)_
 
-- **Language Learning GenAI App (OpenAI Hackathon, Sept 2025)**  
+- **Language Learning GenAI App**  
   Fullstack application for AI-assisted Korean language learning, leveraging open models and MCP integration.  
   → [Project Repo](https://github.com/Ramsi-K/learn-korean-play-app)
 
 ## 🏆 Completed Projects & Outcomes
+
+### Albumentations MCP (Kiro Hackathon, Jul - Sept 2025, Nano Banana Hackathon Sept 2025)
+
+MCP-compliant image augmentation tool using [Albumentations](https://albumentations.ai/).  
+Built to enable **safe, auditable augmentation pipelines** driven by natural language prompts.  
+Integrated with Nano Banana (Gemini 2.5 VLM) for hybrid image-to-image workflows.
+
+- Natural language → structured transforms (`"add blur and rotate 15 degrees"` → GaussianBlur + Rotate)
+- Full MCP protocol support with tools (`augment_image`, `validate_prompt`, `list_available_transforms`, etc.)
+- Preset pipelines for segmentation, portrait, and lowlight augmentation
+- Deterministic seeding and structured session logging for reproducibility
+- VLM integration: Nano Banana/Gemini for vision-language guided edits (`vlm_edit_image`, `vlm_suggest_recipe`)
+- Configurable via Claude Desktop, Kiro IDE, and MCP JSON setup
+- Robust error handling, logging, and reproducibility hooks
+- Documentation: [Architecture Overview](https://github.com/Ramsi-K/albumentations-mcp/blob/main/docs/architecture.md) · [VLM Guide](https://github.com/Ramsi-K/albumentations-mcp/blob/main/docs/vlm_nano_banana.md)
+
+**Tech stack:** Python, Albumentations, MCP, Gemini/Nano Banana, uvx, Kiro IDE
+
+→ [Project Repo](https://github.com/Ramsi-K/albumentations-mcp)
 
 ### Hugging Face Hackathon (Jun 2025)
 
@@ -97,7 +117,7 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- | ------------------------------- |
 | ![](certs/leetcode/2025-01.png) | ![](certs/leetcode/2025-02.png) | ![](certs/leetcode/2025-03.png) | ![](certs/leetcode/2025-04.png) | ![](certs/leetcode/2025-05.png) | ![](certs/leetcode/2025-06.png) |
 | Jul                             | Aug                             | Sep                             | Oct                             | Nov                             | Dec                             |
-| ![](certs/leetcode/2025-07.png) | ![](certs/leetcode/2025-08.png) |                                 |                                 |                                 |                                 |
+| ![](certs/leetcode/2025-07.png) | ![](certs/leetcode/2025-08.png) | **n/a**                         |                                 |                                 |                                 |
 
 ---
 
@@ -163,4 +183,4 @@ Instead of tracking 365 individual days, I'm organizing the year into strategic 
 
 > ## Connect & Collaborate
 >
-> I believe in learning in public and welcome collaboration. If you're interested in any of the projects or want to pair program on algorithms, you can reach out to me via [LinkedIn](https://www.linkedin.com/in/ramsikalia/).
+> I believe in learning in public and welcome collaboration. If you're interested in any of the projects or want to pair program on anything, you can reach out to me via [LinkedIn](https://www.linkedin.com/in/ramsikalia/).
